@@ -62,6 +62,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Open Corporates](https://opencorporates.com/) – The largest open database of companies in the world.
 - [Civic Information API (Google)](https://developers.google.com/civic-information) – Provides information on polling places, political representatives, and more.
 - [EveryPolitician](https://everypolitician.org/) – Open data on national politicians from every country.
+- [Crime Brasil](https://crimebrasil.com.br) – Brazilian crime-data platform with free REST API; ~3M geocoded incidents across RS (neighborhood), MG and RJ (municipality), and national PRF/DATASUS. CC BY 4.0.
 
 ## Communities & Organizations
 
