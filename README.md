@@ -62,6 +62,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Open Corporates](https://opencorporates.com/) – The largest open database of companies in the world.
 - [Civic Information API (Google)](https://developers.google.com/civic-information) – Provides information on polling places, political representatives, and more.
 - [EveryPolitician](https://everypolitician.org/) – Open data on national politicians from every country.
+- [Wounded Warriors Veteran Resources](https://warriorsfund.org/) – Open dataset of 100,437 verified U.S. veteran-services resources across all 56 jurisdictions, published in HSDS 3.0, DCAT-US, and OpenAPI 3.1, with a public MCP server endpoint for AI/agent access.
 
 ## Communities & Organizations
 
