@@ -62,6 +62,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Open Corporates](https://opencorporates.com/) – The largest open database of companies in the world.
 - [Civic Information API (Google)](https://developers.google.com/civic-information) – Provides information on polling places, political representatives, and more.
 - [EveryPolitician](https://everypolitician.org/) – Open data on national politicians from every country.
+- [ph-civic-data-mcp](https://github.com/xmpuspus/ph-civic-data-mcp) – MCP server exposing Philippine government data (PSGC, PHIVOLCS, PAGASA, PhilGEPS, PSA) plus global open data (World Bank, NASA, USGS, NOAA, Open-Meteo) as AI-agent-callable tools. 29 tools, zero required API keys, MIT.
 
 ## Communities & Organizations
 
