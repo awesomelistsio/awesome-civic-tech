@@ -38,10 +38,11 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Civic Apps & Tools
 
-- [SeeClickFix](https://seeclickfix.com/) – Allows residents to report non-emergency issues directly to local governments.
-- [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
-- [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
-- [Your Priorities](https://www.citizens.is/apps/) – A participatory platform for crowdsourcing ideas and discussions from citizens.
+- [Clarvia](https://clarvia.org/en/checklist) - Open-source, source-backed bereavement checklist for EU life events, generated from a structured consequence graph ([repo](https://github.com/clarvia-org/clarvia-graph)).
+- [Commonplace](https://www.commonplace.is/) - A platform for community consultation on urban planning and development.
+- [Public Input](https://publicinput.com/) - Tools for online civic engagement and public consultation.
+- [SeeClickFix](https://seeclickfix.com/) - Allows residents to report non-emergency issues directly to local governments.
+- [Your Priorities](https://www.citizens.is/apps/) - A participatory platform for crowdsourcing ideas and discussions from citizens.
 
 ## Open Government & Transparency
 
