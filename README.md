@@ -62,6 +62,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Open Corporates](https://opencorporates.com/) – The largest open database of companies in the world.
 - [Civic Information API (Google)](https://developers.google.com/civic-information) – Provides information on polling places, political representatives, and more.
 - [EveryPolitician](https://everypolitician.org/) – Open data on national politicians from every country.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) – Trust scoring and wallet identity verification for AI agents. Enables civic tech platforms to verify that AI agents interacting with public data APIs carry cryptographically signed trust receipts. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Communities & Organizations
 
