@@ -38,6 +38,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Civic Apps & Tools
 
+- [Albis](https://www.albis.news/?utm_source=github&utm_medium=awesome-list&utm_campaign=albis_public_eye&utm_content=awesome-civic-tech) – Free public-interest news discovery tool for comparing coverage gaps, source diversity, and framing across global stories.
 - [SeeClickFix](https://seeclickfix.com/) – Allows residents to report non-emergency issues directly to local governments.
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
