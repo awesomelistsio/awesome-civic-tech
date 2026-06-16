@@ -62,6 +62,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Open Corporates](https://opencorporates.com/) – The largest open database of companies in the world.
 - [Civic Information API (Google)](https://developers.google.com/civic-information) – Provides information on polling places, political representatives, and more.
 - [EveryPolitician](https://everypolitician.org/) – Open data on national politicians from every country.
+- [Government Contracting Research Agent](https://superhighway.walls.sh/guides/govcon-research-agent) – Python tutorial for an agent that researches federal contract opportunities from live government data (SAM.gov, FPDS, USAspending) into a structured JSON briefing.
 
 ## Communities & Organizations
 
