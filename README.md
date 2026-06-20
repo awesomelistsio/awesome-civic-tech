@@ -43,6 +43,8 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
 - [Your Priorities](https://www.citizens.is/apps/) – A participatory platform for crowdsourcing ideas and discussions from citizens.
 
+- [GoccIA](https://goccia.org) – Free open-source Italian web tool that scores tap-water quality 1-99 based on lab report values, using EU Directive 2020/2184 (D.Lgs. 18/2023) and WHO/EFSA guidelines.
+
 ## Open Government & Transparency
 
 - [OpenGov Foundation](https://www.opengovfoundation.org/) – Builds tools to help governments become more open, responsive, and accountable.
