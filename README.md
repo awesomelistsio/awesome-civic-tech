@@ -42,6 +42,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
 - [Your Priorities](https://www.citizens.is/apps/) – A participatory platform for crowdsourcing ideas and discussions from citizens.
+- [Modern Action](https://modernaction.io/) – A nonpartisan U.S. civic platform that connects public issues to federal legislation, elected officials' records, and editable bill-specific messages to Congress.
 
 ## Open Government & Transparency
 
