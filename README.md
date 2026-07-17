@@ -33,7 +33,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [FixMyStreet](https://www.fixmystreet.com/) – A platform for reporting local problems like potholes or streetlight outages to municipal authorities.
 - [Open311](http://www.open311.org/) – An open standard for civic issue tracking and reporting.
 - [Decidim](https://decidim.org/) – A digital infrastructure for participatory democracy, used by cities around the world.
-- [Consul](https://consulproject.org/en/) – Open source platform for citizen participation in democratic processes.
+- [Consul](https://consuldemocracy.org/) – Open source platform for citizen participation in democratic processes.
 - [Pol.is](https://pol.is/) – A real-time system for gathering, analyzing, and understanding what large groups of people think in their own words.
 
 ## Civic Apps & Tools
