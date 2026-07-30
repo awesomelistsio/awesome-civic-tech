@@ -42,6 +42,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
 - [Your Priorities](https://www.citizens.is/apps/) – A participatory platform for crowdsourcing ideas and discussions from citizens.
+- [2025 USCIS Citizenship Test Study Hub](https://textenergy.github.io/USCIS2025/index.html) - An open-source, ad-free interactive study tool for individuals or classes, featuring bilingual flip-cards (English/Spanish, some Haitian Creole and Brazilian Portuguese), English audio prompts, and Form N-400 interview preparation resources.
 
 ## Open Government & Transparency
 
