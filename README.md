@@ -45,6 +45,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Open Government & Transparency
 
+- [Approps](https://approps.ai/) – Live tracker for all 12 U.S. federal appropriations bills, with a searchable database of 15,000+ congressional earmarks by state, member, and bill, sourced from official congressional documents.
 - [OpenGov Foundation](https://www.opengovfoundation.org/) – Builds tools to help governments become more open, responsive, and accountable.
 - [Open States](https://openstates.org/) – Track state-level legislation and lawmakers in the U.S.
 - [Sunlight Foundation (archived)](https://sunlightfoundation.com/) – Resources for increasing government transparency and accountability.
