@@ -38,9 +38,10 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Civic Apps & Tools
 
-- [SeeClickFix](https://seeclickfix.com/) – Allows residents to report non-emergency issues directly to local governments.
-- [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
+- [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
+- [Room TBA](https://room-tba.uplb.tools) – An open-source, map-first web app for navigating campuses, schedules, and routing.
+- [SeeClickFix](https://seeclickfix.com/) – Allows residents to report non-emergency issues directly to local governments.
 - [Your Priorities](https://www.citizens.is/apps/) – A participatory platform for crowdsourcing ideas and discussions from citizens.
 
 ## Open Government & Transparency
