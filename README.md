@@ -42,6 +42,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
 - [Your Priorities](https://www.citizens.is/apps/) – A participatory platform for crowdsourcing ideas and discussions from citizens.
+- [MarkSafe](https://marksafe.net/) – Anonymous civic hazard reporting for Pakistan, covering all 141 districts with GPS-pinned reports that auto-tag responsible elected officials on X. Bilingual EN/UR.
 
 ## Open Government & Transparency
 
