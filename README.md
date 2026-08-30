@@ -38,7 +38,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Civic Apps & Tools
 
-- [OOH Earth](https://oohearth.app/) – An open civic platform for mapping and documenting outdoor advertising in public space.
+- [OOH Earth](https://oohearth.app/?utm_source=github_directory&utm_medium=referral&utm_campaign=civictech_directory_001) – An open civic platform for mapping and documenting outdoor advertising in public space.
 
 - [SeeClickFix](https://seeclickfix.com/) – Allows residents to report non-emergency issues directly to local governments.
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
