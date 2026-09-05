@@ -1,4 +1,4 @@
-# Awesome Civic Tech [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Civic Tech [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -72,11 +72,11 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Related Awesome Lists
 
-- **[Awesome Open Governance](https://github.com/awesomelistsio/awesome-open-governance)** – Projects, platforms, and APIs for transparency, civic tech, and global governance.
-- **[Awesome Political Science](https://github.com/awesomelistsio/awesome-political-science)** – Resources for political theory, public policy, and governance.
-- **[Awesome Human Rights](https://github.com/awesomelistsio/awesome-human-rights)** – Tools and platforms supporting justice, equality, and civil liberties.
-- **[Awesome Open Data](https://github.com/awesomelistsio/awesome-open-data)** – Curated open datasets and data access tools.
-- **[Awesome Journalism](https://github.com/awesomelistsio/awesome-journalism)** – Investigative, data, and digital journalism resources.
+- **[Awesome Open Governance](https://github.com/brandonhimpfen/awesome-open-governance)** – Projects, platforms, and APIs for transparency, civic tech, and global governance.
+- **[Awesome Political Science](https://github.com/brandonhimpfen/awesome-political-science)** – Resources for political theory, public policy, and governance.
+- **[Awesome Human Rights](https://github.com/brandonhimpfen/awesome-human-rights)** – Tools and platforms supporting justice, equality, and civil liberties.
+- **[Awesome Open Data](https://github.com/brandonhimpfen/awesome-open-data)** – Curated open datasets and data access tools.
+- **[Awesome Journalism](https://github.com/brandonhimpfen/awesome-journalism)** – Investigative, data, and digital journalism resources.
 
 ## Contribute
 
