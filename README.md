@@ -39,6 +39,7 @@ Civic Tech is the use of technology to empower citizens, improve government serv
 
 ## Civic Apps & Tools
 
+- [PoliScape](https://poliscape.vercel.app/) – A civic tech tool that visualizes Japanese government policies with official data, featuring household impact simulators, easy Japanese mode, and balanced pro/con analysis for all 100 major policies.
 - [SeeClickFix](https://seeclickfix.com/) – Allows residents to report non-emergency issues directly to local governments.
 - [Public Input](https://publicinput.com/) – Tools for online civic engagement and public consultation.
 - [Commonplace](https://www.commonplace.is/) – A platform for community consultation on urban planning and development.
